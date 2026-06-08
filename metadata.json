@@ -1,0 +1,6 @@
+{
+  "name": "EcoMap Explorer",
+  "description": "EcoMap Explorer is an interactive environmental intelligence platform that provides global environmental scoring, air/water quality tracking, carbon coverage monitoring, climate risk analysis, and AI-powered sustainability recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
